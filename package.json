@@ -1,0 +1,25 @@
+{
+  "name": "type-script-money",
+  "version": "0.1.0",
+  "description": "TypeScript implementation of a Money Value Object",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/keithmifsud/type-script-money.git"
+  },
+  "keywords": [
+    "Money",
+    "Money Value Object",
+    "TypeScript Money",
+    "TypeSvript Doain Driven Design"
+  ],
+  "author": "Keith Mifsud",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/keithmifsud/type-script-money/issues"
+  },
+  "homepage": "https://github.com/keithmifsud/type-script-money#readme"
+}
