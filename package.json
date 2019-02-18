@@ -16,7 +16,10 @@
     "TypeScript Money",
     "TypeSvript Doain Driven Design"
   ],
-  "author": "Keith Mifsud",
+  "author": {
+    "name": "Keith Mifsud",
+    "email": "mifsud.k@gmail.com"
+  },
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/keithmifsud/type-script-money/issues"
